@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WeakPoint
+  - stairs
+  - EnemyObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3169568057
+    locked: 0
+  - name: Tree
+    uniqueID: 3936392823
+    locked: 0
+  - name: player
+    uniqueID: 2954628345
+    locked: 0
+  - name: UI
+    uniqueID: 2723424927
+    locked: 0
+  - name: UI2
+    uniqueID: 1674326319
+    locked: 0

@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 07d80e457ba10354fbec23d450d0b4ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 371
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9335a06db7b08946807298de7397c41
+      internalID: -1833731423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 362
+        width: 77
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292bd9664a09374c8542cbcb195158f
+      internalID: 749589148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 376
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1efd19fd8395014d94d5cee919cc4c7
+      internalID: -1197836612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 368
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6798721da052cb942a8cdea8ab379708
+      internalID: 773765300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 359
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57af16950e697cd4ebfe31c18d6682e4
+      internalID: -1660680865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 362
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11d9c16a6cf5047ba52140890f744a
+      internalID: -1841671717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 247
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f591329061374e837af1e63ae5aab
+      internalID: 355007523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 253
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b63418dc18a1458617616c689e687
+      internalID: 2061958842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 241
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43040c87c8e069148a454b18c5bf30c9
+      internalID: 1962947452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 247
+        width: 45
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da772ea73901f4c8bf367392cf5dcd
+      internalID: -1303835511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 250
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f09c36b5c34b24aa166beaca6d842f
+      internalID: 201720665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 253
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0894b4e8a3634448373ea8520fe509
+      internalID: -30978716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 54
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf20f71ec3907c34ebf6e6867adad2b2
+      internalID: -2033081758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 132
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341a2e67569d67044a9e6278334b8cc1
+      internalID: -381957355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 120
+        width: 60
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6088f6d729d076042a64431980d234b7
+      internalID: 1609415230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 144
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75202965c3755464096caea5ff88d4c1
+      internalID: 532480960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 129
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c6ae82a42c29498997a87e6b1a70f
+      internalID: 638275499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 123
+        width: 72
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bce0aa702b3d347879ca220ce363c4
+      internalID: 1257670432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256114415a4942a4da9b65a75b1efeaf
+      internalID: -187008989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf4f141368c79b41ba4c0ac4ff208a6
+      internalID: 187927393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 8
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b5948eaa093a4a8ac5163776b42bd
+      internalID: -1754229833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43012df9dca2c82498adf80ec916e771
+      internalID: -7858896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 6
+        width: 59
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2365373db3094eb6cd7c809b2d6b4
+      internalID: 783818132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaden-stock-axesheet-300x400-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81203b8f9cd10d146a9e68eadc1947ed
+      internalID: 1525523986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jaden-stock-axesheet-300x400-removebg-preview_1: 749589148
+      jaden-stock-axesheet-300x400-removebg-preview_23: 1525523986
+      jaden-stock-axesheet-300x400-removebg-preview_11: -30978716
+      jaden-stock-axesheet-300x400-removebg-preview_3: 773765300
+      jaden-stock-axesheet-300x400-removebg-preview_16: 638275499
+      jaden-stock-axesheet-300x400-removebg-preview_19: 187927393
+      jaden-stock-axesheet-300x400-removebg-preview_10: 201720665
+      jaden-stock-axesheet-300x400-removebg-preview_12: -2033081758
+      jaden-stock-axesheet-300x400-removebg-preview_15: 532480960
+      jaden-stock-axesheet-300x400-removebg-preview_5: -1841671717
+      jaden-stock-axesheet-300x400-removebg-preview_4: -1660680865
+      jaden-stock-axesheet-300x400-removebg-preview_22: 783818132
+      jaden-stock-axesheet-300x400-removebg-preview_21: -7858896
+      jaden-stock-axesheet-300x400-removebg-preview_18: -187008989
+      jaden-stock-axesheet-300x400-removebg-preview_13: -381957355
+      jaden-stock-axesheet-300x400-removebg-preview_6: 355007523
+      jaden-stock-axesheet-300x400-removebg-preview_17: 1257670432
+      jaden-stock-axesheet-300x400-removebg-preview_2: -1197836612
+      jaden-stock-axesheet-300x400-removebg-preview_20: -1754229833
+      jaden-stock-axesheet-300x400-removebg-preview_0: -1833731423
+      jaden-stock-axesheet-300x400-removebg-preview_7: 2061958842
+      jaden-stock-axesheet-300x400-removebg-preview_8: 1962947452
+      jaden-stock-axesheet-300x400-removebg-preview_9: -1303835511
+      jaden-stock-axesheet-300x400-removebg-preview_14: 1609415230
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
